@@ -1,6 +1,5 @@
 # UIU Enterprise Network Design using Packet Tracer
 
-![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/UIU_Enterprise_Network_Design_PacketTracer)
 ![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/UIU_Enterprise_Network_Design_PacketTracer)
 ![GitHub last commit](https://img.shields.io/github/last-commit/TashinParvez/UIU_Enterprise_Network_Design_PacketTracer)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TashinParvez.UIU_Enterprise_Network_Design_PacketTracer)
